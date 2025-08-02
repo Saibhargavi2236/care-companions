@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+transformers
+torch
+sentence-transformers
+pillow
+torchvision
